@@ -1,0 +1,28 @@
+/* ALL */
+.collection { 
+    margin: 0 0 0 0 !important;;
+    padding: 0 0 0 0 !important;;
+}
+.collection a.collection-item {
+    color: black !important;
+    font-weight: bold;
+}
+
+
+/* HEADER */
+header {
+    background-color: aqua !important;;
+}
+
+/* MAIN */
+#menu-lateral { 
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    height: calc(100%-64px);
+}
+
+#conteudo {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: gray;
+}
